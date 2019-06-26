@@ -1,0 +1,11 @@
+﻿  finalProj.cpp
+c:\users\david pc\documents\sample2017\finalproj\finalproj.cpp(101): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\david pc\documents\sample2017\finalproj\finalproj.cpp(223): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\david pc\documents\sample2017\finalproj\finalproj.cpp(281): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\david pc\documents\sample2017\finalproj\finalproj.cpp(1493): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\david pc\documents\sample2017\finalproj\finalproj.cpp(1502): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\david pc\documents\sample2017\finalproj\finalproj.cpp(1520): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\david pc\documents\sample2017\finalproj\finalproj.cpp(1821): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\david pc\documents\sample2017\finalproj\finalproj.cpp(1827): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+glslprogram.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\David Pc\Documents\Sample2017\finalProj\.\Debug\Sample.exe

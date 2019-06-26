@@ -1,0 +1,4 @@
+﻿  sample.cpp
+y:\cs553\sample2017\glui.h(760): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> Y:\CS553\Sample2017\.\Debug\Sample.exe
